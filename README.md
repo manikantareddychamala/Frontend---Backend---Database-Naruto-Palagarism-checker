@@ -1,7 +1,5 @@
 # Frontend---Backend---Database-Naruto-Palagarism-checker
 
-![Image](https://github.com/user-attachments/assets/841d7592-a674-43ef-9200-8a94a3cecbbd)
-
 #Naruto-Plagiarism-Checker/
 
 │── frontend/             # HTML, CSS, JS for the UI
@@ -21,4 +19,8 @@
 │── README.md             # Documentation
 
 │── .gitignore            # Ignores unnecessary files
+
+
+
+![Image](https://github.com/user-attachments/assets/841d7592-a674-43ef-9200-8a94a3cecbbd)
 
